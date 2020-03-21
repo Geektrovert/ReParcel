@@ -23,3 +23,6 @@ npm install
 ```bash
 npm start
 ```
+
+---
+Made with ![coffee](/src/static/cafe-outline.svg) by [Samnan](https://github.com/Geektrovert)
