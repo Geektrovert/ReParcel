@@ -1,6 +1,6 @@
 # ReParcel
 
-React Parcel starter template, ready to ship with [Netlify](https://netlify.com/)!
+React Parcel starter template, ready to ship with [Netlify](https://netlify.com/) and [Now](https://now.sh)!
 
 ## How to
 
