@@ -15,7 +15,7 @@ yarn
 Or with npm:
 
 ```bash
-npm install
+npm i -s
 ```
 
 ### Running the code
@@ -23,6 +23,12 @@ npm install
 ```bash
 npm start
 ```
+
+### Configuring [Now](https://now.sh) deployment
+
+- Step 1: Please see the instructions [here](https://zeit.co/docs/v2/build-step)
+- Step 2: Set the "BUILD COMMAND" to `npm run build`
+- Step 3: Set the "OUTPUT DIRECTORY" to `./dist`
 
 ---
 Made with ![coffee](/src/static/cafe-outline.svg) by [Samnan](https://github.com/Geektrovert)
