@@ -4,7 +4,7 @@
   "main": "index.js",
   "scripts": {
     "start": "parcel index.html",
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "ava",
     "build": "parcel build index.html"
   },
   "keywords": [],
@@ -15,6 +15,7 @@
     "@babel/plugin-proposal-class-properties": "^7.8.3",
     "@babel/preset-env": "^7.8.7",
     "@babel/preset-react": "^7.8.3",
+    "ava": "^3.8.2",
     "babel-core": "^6.26.3",
     "babel-preset-env": "^1.7.0",
     "babel-preset-react": "^6.24.1",
@@ -22,6 +23,7 @@
     "sass": "^1.20.1"
   },
   "dependencies": {
+    "babel-polyfill": "^6.26.0",
     "parcel": "^1.12.4",
     "react": "^16.8.6",
     "react-dom": "^16.8.6"
