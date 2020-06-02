@@ -20,6 +20,14 @@ npm i -s
 
 ### Running the code
 
+With Yarn:
+
+```bash
+yarn start
+```
+
+Or with npm:
+
 ```bash
 npm start
 ```
